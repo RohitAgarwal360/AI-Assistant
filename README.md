@@ -52,6 +52,6 @@ pip install [module name]
 
 ### Go to the location of the cloned repository. Run the following command:
 
-python mysoftwaretemplate.py
+python humanprog.py
 
 ## Try your personal AI Assistent!
