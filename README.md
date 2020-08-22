@@ -1,7 +1,7 @@
-#AI-Assistant
+# AI-Assistant
 This is your personal voice assistant
 
-Special Thanks to Vimal Daga Sir:
+** Special Thanks to Vimal Daga Sir: **
 Firstly, i would like to thank Vimal Daga sir for providing a great opportunity to students around the world to learn and grow together. I am greatly impressed by his idea to make students as the "CREATORS OF TECHNOLOGY".
 
 So talking about the task, this task is given to us as a project by vimal sir:
