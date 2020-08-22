@@ -11,6 +11,7 @@ import subprocess
 voiceEngine = pt.init()
 voiceEngine.setProperty('rate', 130)
 
+comman_word = 'run' in p or 'launch' in p or 'execute' in p or 'open' in p
 
 hour = int(datetime.datetime.now().hour)
 if hour>=0 and hour<12:
@@ -31,9 +32,6 @@ while True:
         pt.speak("Chat with me with your requirements : ")
         p = input()
         p = p.lower()
-        
-        comman_word = 'run' in p or 'launch' in p or 'execute' in p or 'open' in p
-        
 
         if ("chrome" in p) and comman_word:
             pt.speak("Okay! opening chrome Browser")
