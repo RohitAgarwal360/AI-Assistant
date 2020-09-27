@@ -15,19 +15,19 @@ print("<html>")
 print("""
 
 <head>
-    <title> Linux Webies </title>
+    <title> Linux WebCLI </title>
 </head>
 
 <style>
 body {
-    background-color: black;
-    color: aliceblue;
-    margin: 0;
+    background-color: blue;
+    color: red;
+    margin: 5;
 }
 
 div {
-    padding: 5px;
-    background-color: brown;
+    padding: 10px;
+    background-color: green;
 }
 
 div h1 {
@@ -37,13 +37,14 @@ div h1 {
 div h6 {
     text-indent: 60%;
     display: block;
-    padding: 8px;
+    padding: 10px;
 }
 
 form input{
-    left: 20px;
+    left: 30px;
     text-indent: 50%;
 }
+
 </style>
 <body>
 
